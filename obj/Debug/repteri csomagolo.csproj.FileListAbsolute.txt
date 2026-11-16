@@ -1,0 +1,7 @@
+S:\Szoftteszt\repteri csomagolo\repteri csomagolo\bin\Debug\repteri csomagolo.exe.config
+S:\Szoftteszt\repteri csomagolo\repteri csomagolo\bin\Debug\repteri csomagolo.exe
+S:\Szoftteszt\repteri csomagolo\repteri csomagolo\bin\Debug\repteri csomagolo.pdb
+S:\Szoftteszt\repteri csomagolo\repteri csomagolo\obj\Debug\repteri csomagolo.csproj.AssemblyReference.cache
+S:\Szoftteszt\repteri csomagolo\repteri csomagolo\obj\Debug\repteri csomagolo.csproj.CoreCompileInputs.cache
+S:\Szoftteszt\repteri csomagolo\repteri csomagolo\obj\Debug\repteri csomagolo.exe
+S:\Szoftteszt\repteri csomagolo\repteri csomagolo\obj\Debug\repteri csomagolo.pdb
